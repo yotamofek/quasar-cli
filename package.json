@@ -36,9 +36,9 @@
   "bugs": "https://github.com/quasarframework/quasar-cli/issues",
   "homepage": "http://quasar-framework.org",
   "dependencies": {
-    "@babel/core": "~7.1.0",
+    "@babel/core": "^7.1.2",
     "@babel/plugin-proposal-class-properties": "~7.1.0",
-    "@babel/plugin-proposal-decorators": "~7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.2",
     "@babel/plugin-proposal-export-namespace-from": "~7.0.0",
     "@babel/plugin-proposal-function-sent": "~7.1.0",
     "@babel/plugin-proposal-json-strings": "~7.0.0",
@@ -51,7 +51,7 @@
     "@babel/runtime": "~7.0.0",
     "ajv": "6.5.4",
     "autoprefixer": "~9.1.5",
-    "babel-loader": "~8.0.2",
+    "babel-loader": "^8.0.4",
     "babel-plugin-transform-imports": "~1.5.1",
     "chalk": "2.4.1",
     "chokidar": "2.0.4",
@@ -110,13 +110,13 @@
     "vue-style-loader": "4.1.2",
     "vue-template-compiler": "2.5.17",
     "vuex": "3.0.1",
-    "webpack": "4.19.1",
+    "webpack": "4.20.2",
     "webpack-bundle-analyzer": "3.0.2",
-    "webpack-chain": "4.11.0",
+    "webpack-chain": "4.12.1",
     "webpack-dev-server": "3.1.9",
     "webpack-merge": "4.1.4",
     "webpack-node-externals": "1.7.2",
-    "workbox-webpack-plugin": "3.6.1"
+    "workbox-webpack-plugin": "3.6.2"
   },
   "engines": {
     "node": ">= 8.9.0",
