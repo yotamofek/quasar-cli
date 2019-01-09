@@ -6611,10 +6611,10 @@ uglify-js@3.4.x, uglify-js@^3.0.0:
     commander "~2.17.1"
     source-map "~0.6.1"
 
-uglifyjs-webpack-plugin@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/uglifyjs-webpack-plugin/-/uglifyjs-webpack-plugin-2.1.0.tgz#630bb89b156a751c5e897769e5c39eb604ceaf9c"
-  integrity sha512-xD8HaE8sFvhYsE2Lr4lSQ/Y2K0DBEaZGqIsrIccdxaAWdFdeYcm54CcMoCCPDpixqUlZAukUMq3cmgIqXubjsQ==
+uglifyjs-webpack-plugin@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/uglifyjs-webpack-plugin/-/uglifyjs-webpack-plugin-2.1.1.tgz#6937d7513a37280d4792f1fb536bef35e08e420a"
+  integrity sha512-TQEcyMNkObX/H+FfcKjiDgs5RcXX8vW2UUUrDTOfQgg3lrafztfeM5WAwXo+AzqozJK6NP9w98xNpG/dutzSsg==
   dependencies:
     cacache "^11.2.0"
     find-cache-dir "^2.0.0"
@@ -6821,10 +6821,10 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.1.tgz#b2d3d95402a811602380783ea4f566eb875569a2"
   integrity sha512-AA86yKZ5uOKz87/q1UpngEXhbRkaYg1b7HMMVRobNV1IVKqZe8oLIzo6iMocVwZXnYitlGwf2k4ZRLOZlS8oPQ==
 
-vue-loader@^15.5.0:
-  version "15.5.0"
-  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-15.5.0.tgz#1ff724511b0f40aea9734f611fe34f6af6ba38f8"
-  integrity sha512-aw+eJsAxxmlD4Ad0ww4s69u4pGs4jjwv9WVDiW5qj2zPYSmgNPWaD0xCl5jQyqgtXstkzYurhdG49cpQmNgRgg==
+vue-loader@^15.5.1:
+  version "15.5.1"
+  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-15.5.1.tgz#e005d5fc2481a55a19910f0dcf434206d68acc2a"
+  integrity sha512-gsTA9xRzu9jGBzkcrAB8my14RkHMzdr5rY/mCFmxgY2tOVsd2Z1MaYCDXHu5nX6PyHAsVK2/hXmarPln/2MiIw==
   dependencies:
     "@vue/component-compiler-utils" "^2.4.0"
     hash-sum "^1.0.2"
